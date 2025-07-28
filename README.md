@@ -29,7 +29,7 @@ npm run dev
 
 💼 LinkedIn:https://www.linkedin.com/in/dev-gokha-44ba90260/
 
-🐙 GitHub
+
 
 
 
