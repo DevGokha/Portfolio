@@ -8,7 +8,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   plugins: [react()],
   esbuild: {
-    jsx: 'automatic', // ✅ For React 17+ JSX Transform
+    jsx: 'automatic', 
   },
 });
 

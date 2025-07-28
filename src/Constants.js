@@ -28,7 +28,7 @@ import pytorch_logo from './assets/tech_logo/pytorch_logo.png';
 import tensorflow_logo from './assets/tech_logo/tensorflow_logo.png'
 import keras_logo from './assets/tech_logo/keras_logo.png';
 import numPy_logo from './assets/tech_logo/numPy_logo.png';
-import pandas_logo from './assets/tech_logo/pandas_logo.png';
+import pandasLogo from './assets/tech_logo/Pandas_logo.png';
 import matplotlib_logo from './assets/tech_logo/matplotlib_logo.png'
 import seaborn_logo from './assets/tech_logo/seaborn_logo.png'
 import scikit_learn_logo from './assets/tech_logo/Scikit-learn_logo.png';
@@ -45,17 +45,10 @@ import wellFoundedLogo from './assets/education_logo/wellFoundedLogo.jpeg';
 
 
 // Project Section Logo's
-import githubdetLogo from './assets/work_logo/github_det.png';
+
+
 import pinterestLogo from './assets/work_logo/Pinterest_logo.png';
 import chessLogo from './assets/work_logo/chessLogo.webp';
-import csprepLogo from './assets/work_logo/cs_prep.png';
-import movierecLogo from './assets/work_logo/movie_rec.png';
-import taskremLogo from './assets/work_logo/task_rem.png';
-import npmLogo from './assets/work_logo/npm.png';
-import webverLogo from './assets/work_logo/web_dig.png';
-import cmLogo from './assets/work_logo/cm.png';
-import imagesearchLogo from './assets/work_logo/image_search.png';
-import removebgLogo from './assets/work_logo/remove_bg.png';
 
 
 export const SkillsInfo = [
@@ -112,7 +105,7 @@ export const SkillsInfo = [
     skills: [
       { name: 'Python', logo: pythonLogo },
       { name: 'NumPy', logo: numPy_logo },
-      { name: 'Pandas', logo: pandas_logo },
+      { name: 'Pandas', logo: pandasLogo },
       { name: 'Matplotlib', logo: matplotlib_logo },
       { name: 'Seaborn', logo: seaborn_logo },
       { name: 'Scikit-Learn', logo: scikit_learn_logo },
